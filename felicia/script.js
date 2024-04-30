@@ -18,7 +18,7 @@ function mulai() {
 }
 
 function wa(isi) {
-  window.open("https://api.whatsapp.com/ " + isi);
+  window.open("https://api.whatsapp.com " + isi);
 }
 
 async function tanya() {
