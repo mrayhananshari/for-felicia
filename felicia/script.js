@@ -18,7 +18,7 @@ function mulai() {
 }
 
 function wa(isi) {
-  window.open("https://api.whatsapp.com/send?text=Makasih%20ya%20udah%20inget%20ulang%20tahun%20aku,%20di%20hari%20spesial%20ini%20aku%20ingin " + isi);
+  window.open("https://api.whatsapp.com/ " + isi);
 }
 
 async function tanya() {
