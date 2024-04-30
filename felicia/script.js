@@ -18,7 +18,7 @@ function mulai() {
 }
 
 function wa(isi) {
-  window.open("https://api.whatsapp.com/send?text=Thank%20You%20to%20answer");
+  window.open("https://api.whatsapp.com/send?text=Thank%20You%20to%20answer" + isi);
 }
 
 async function tanya() {
